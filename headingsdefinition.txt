@@ -1,0 +1,1 @@
+Headings are font sizes in html5. They are used to format hypertext in the form of sizes in html.
